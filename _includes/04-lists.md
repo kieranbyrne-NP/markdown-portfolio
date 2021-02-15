@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. chocolate
+2. vanilla
+3. coconut
+4. mint chocolate chip
+5. strawberry
